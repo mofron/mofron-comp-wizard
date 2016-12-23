@@ -1,2 +1,2 @@
-# mofron-parts-wizard
-wizard component for mofron
+# mofron-comp-wizard
+Wizard Component for mofron
