@@ -1,0 +1,22 @@
+{
+  "name": "mofron-comp-wizard",
+  "version": "0.0.3",
+  "description": "wizard component for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mofron/mofron-comp-wizard.git"
+  },
+  "keywords": [
+    "front-end"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mofron/mofron-comp-wizard/issues"
+  },
+  "homepage": "https://github.com/mofron/mofron-comp-wizard#readme"
+}
